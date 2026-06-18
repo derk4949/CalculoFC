@@ -1,0 +1,2 @@
+# CalculoFC
+ganancias totales
