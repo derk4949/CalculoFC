@@ -8,6 +8,7 @@ public class PuntajeExamenFC {
         System.out.println("Ingresa el tipo de examen");
         System.out.println("1.- virtual");
         System.out.println("2.- Presencial");
+        System.out.println("-----------------");
         tipoE = lector.nextInt();
         System.out.println("Ingrese nota obtenida");
         notaE = lector.nextInt();
@@ -48,9 +49,9 @@ public class PuntajeExamenFC {
                     System.out.println("CASTIGO: CARTA NEGRA");
                     System.out.println("estudia sonso");
                 }
-                System.out.println("tus puntos totales "+FC);
 
         }
+        System.out.println("tus puntos totales "+FC);
 
     }
 }
