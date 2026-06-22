@@ -5,6 +5,7 @@ public class PuntajeExamenFC {
         int tipoE;
         int notaE;
         int FC = 0;
+        int Fs = 0;
         System.out.println("Ingresa el tipo de examen");
         System.out.println("1.- virtual");
         System.out.println("2.- Presencial");
@@ -50,9 +51,14 @@ public class PuntajeExamenFC {
                     System.out.println("estudia sonso");
                 }
 
+
         }
         System.out.println("tus puntos totales "+FC);
 
     }
 }
 
+//colocar el nombre del curso donde se recibe punto
+
+// colocar un bucle donde pueda pedir cuantos cursos si es que es mas de uno y
+// que tal vez colocar el total de los 2 cursos etc
