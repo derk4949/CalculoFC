@@ -50,7 +50,7 @@ public class PuntajeExamenFC {
                     System.out.println("CASTIGO: CARTA NEGRA");
                     System.out.println("estudia sonso");
                 }
-
+                break;
 
         }
         System.out.println("tus puntos totales "+FC);
